@@ -1,5 +1,5 @@
 config:
-    info: 'branch master springcloud-config/config-dev.yml version=5'
+    info: 'branch master springcloud-config/config-dev.yml version=6'
 datasource:
     url: jdbc:mysql://localhost:3306/springcloud?useSSL=false&serverTimezone=UTC
     username: root
